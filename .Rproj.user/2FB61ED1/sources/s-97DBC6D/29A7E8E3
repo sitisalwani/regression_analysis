@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581111770529.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "29A7E8E3",
+    "lastKnownWriteTime" : 1581116544,
+    "last_content_update" : 1581116544417,
+    "path" : "~/Documents/Cousera/Course7/Project/reg_motor_trend_analysis/regression_pdf.Rmd",
+    "project_path" : "regression_pdf.Rmd",
+    "properties" : {
+        "cursorPosition" : "106,6",
+        "last_setup_crc32" : "97DBC6Dbb338d19",
+        "scrollLine" : "104",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
